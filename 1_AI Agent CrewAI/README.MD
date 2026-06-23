@@ -10,7 +10,7 @@ A multi-agent pipeline that searches multiple e-commerce websites for a product,
 
 ## Output
 
-![Price Comparison Table](example/price_comparison.html)
+![Price Comparison Table](examples/preview.png)
 
 An HTML report with:
 - Summary cards (lowest, average, highest price)
@@ -58,3 +58,10 @@ See the [`examples/`](examples/) folder for sample results searching for an ASUS
 Not every step needs to be an LLM agent.
 
 The scraping agent was burning thousands of tokens per retry. Replacing it with a plain Python function made the system faster, cheaper, and more reliable.
+
+## Note on Pricing
+
+> ⚠️ Example data is for demonstration only. Prices and listing availability change daily.
+> Run the notebook to get real-time results.
+
+Prices in the examples folder were captured at a specific point in time and may no longer reflect current listings. Some listings may have ended or changed price since the examples were generated.
