@@ -10,7 +10,7 @@ A multi-agent pipeline that searches multiple e-commerce websites for a product,
 
 ## Output
 
-![Price Comparison Table](examples/preview.png)
+![Price Comparison Table](example/preview.png)
 
 An HTML report with:
 - Summary cards (lowest, average, highest price)
