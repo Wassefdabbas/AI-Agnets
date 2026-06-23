@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.amazon.com/ASUS-Zephyrus-2560x1440-Gaming-Laptop/dp/B0D9JH9CW3",
+      "website": "www.amazon.com",
+      "title": "ASUS 2024 MUX ROG Zephyrus G14 14in OLED 120Hz 3K Ryzen 9 8945HS RTX 4060 1TB Win 11",
+      "price": 1099.99,
+      "currency": "$",
+      "availability": "In Stock"
+    },
+    {
+      "page_url": "https://www.amazon.com/HIDevolution-Zephyrus-GA403UV-LPDDR5X-Windows/dp/B0CVLJ8T8D",
+      "website": "www.amazon.com",
+      "title": "HIDevolution 2024 ASUS ROG Zephyrus G14 GA403UV White 14in 3K OLED 120Hz Ryzen 9 8945HS RTX 4060 16GB 1TB Win 11",
+      "price": 1249.99,
+      "currency": "$",
+      "availability": "In Stock"
+    },
+    {
+      "page_url": "https://www.ebay.com/itm/317127508674",
+      "website": "www.ebay.com",
+      "title": "ASUS ROG Zephyrus G14 2024 RTX 4060 Ryzen 9 8945HS 1TB SSD 16GB OLED - Used",
+      "price": 899.0,
+      "currency": "$",
+      "availability": "1 available"
+    },
+    {
+      "page_url": "https://ebay.com/itm/375517353248",
+      "website": "www.ebay.com",
+      "title": "Asus ROG Zephyrus G14 GA403UV QHD 4.0GHz Ryzen 9 8945HS 16GB 1TB RTX 4060 - Refurbished",
+      "price": 979.0,
+      "currency": "$",
+      "availability": "2 available"
+    },
+    {
+      "page_url": "https://www.bestbuy.com/site/asus-rog-zephyrus-g14-14-oled-3k-120hz-gaming-laptop-amd-ryzen-9-8945hs-16gb-lpddr5x-nvidia-geforce-rtx-4060-1tb-ssd-platinum-white/6570270.p",
+      "website": "www.bestbuy.com",
+      "title": "ASUS ROG Zephyrus G14 14in OLED 3K 120Hz Ryzen 9 8945HS 16GB RTX 4060 1TB SSD Platinum White",
+      "price": 1099.99,
+      "currency": "$",
+      "availability": "In Stock - Free Shipping"
+    },
+    {
+      "page_url": "https://www.bestbuy.com/site/asus-rog-zephyrus-g14-14-oled-3k-120hz-gaming-laptop-amd-ryzen-9-8945hs-32gb-lpddr5x-nvidia-geforce-rtx-4070-1tb-ssd-platinum-white/6570271.p",
+      "website": "www.bestbuy.com",
+      "title": "ASUS ROG Zephyrus G14 14in OLED 3K 120Hz Ryzen 9 8945HS 32GB RTX 4070 1TB SSD Platinum White",
+      "price": 1399.99,
+      "currency": "$",
+      "availability": "In Stock - Free Shipping"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+crewai[tools,litellm]
+agentops==0.3.18
+scrapegraph-py
+python-dotenv
+playwright

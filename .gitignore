@@ -1,0 +1,9 @@
+*.log
+.env
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+ai-agent-output/
+
+
